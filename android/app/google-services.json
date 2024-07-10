@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176106544143",
+    "project_id": "household-a41dc",
+    "storage_bucket": "household-a41dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176106544143:android:655ad9647a779cb211977a",
+        "android_client_info": {
+          "package_name": "com.house.hold"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHhNRDlsUw_T8vZ7B0ULVNahHp3AG6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
